@@ -23,3 +23,5 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/ReverseTlsTunnel
 
 
 - با تشکر از [radkesvat](https://github.com/radkesvat/ReverseTlsTunnel/tree/master)
+
+-کانال یوتیوب ما [69 learn](https://www.youtube.com/channel/UCDdxYJe3g1jIJ0ePrJ5hx3g)
