@@ -109,7 +109,7 @@ echo -e "\e[32m
  ██████   █████      ███████ ███████ ██   ██ ██   ██ ██   ████ 
                                                                   
 \033[0m"
-echo -e "    \e[31mTelegram Channel: \e[34m@sixtininelearn\033[0m | \e[31mTelegram Group: \e[34m@sixtininelearn\033[0m\n"
+echo -e "    \e[31mTelegram Channel: \e[34m@sixtininelearn\033[0m\n"
 echo " --------#- Reverse Tls Tunnel (RTT tunnel) -#--------"
 echo "1) Install"
 echo "2) Uninstall"
