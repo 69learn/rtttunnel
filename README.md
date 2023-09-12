@@ -18,7 +18,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/ReverseTlsTunnel
 ```
 
 
-![1](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/1.jpg)
+
 
 
 
